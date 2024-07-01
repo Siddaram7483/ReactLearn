@@ -1,0 +1,13 @@
+input{
+  width: 100%;
+}
+
+.col-6,.col-4{
+  margin-bottom: 20px;
+}
+.sidd-row{
+  margin: 7px 5px;
+}
+.sidd-button{
+  min-width: 80px;
+}

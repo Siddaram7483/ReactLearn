@@ -1,0 +1,14 @@
+.kg-span{
+  font-weight: 900;
+  /* color: orangered; */
+}
+.kg-sidd{
+  background-color: rgb(170, 160, 160);
+  color:rgb(13, 12, 11);
+ font-weight: 700;
+}
+.button{
+  float: right;
+  font-style: italic;
+  /* flood-opacity: 100px; */
+}
